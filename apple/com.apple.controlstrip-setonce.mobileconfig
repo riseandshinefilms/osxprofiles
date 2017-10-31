@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>PayloadIdentifier</key>
-	<string>org.yourorg.profile.ControlStrip</string>
+	<string>org.riseandshinefilms.profile.ControlStrip</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>
@@ -13,7 +13,7 @@
 	<key>PayloadUUID</key>
 	<string>78D86B23-0C45-45B3-A2BB-A90471406FF2</string>
 	<key>PayloadOrganization</key>
-	<string>Your Org</string>
+	<string>Rise and Shine Films</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 	<key>PayloadDisplayName</key>
@@ -31,14 +31,32 @@
 					<array>
 						<dict>
 							<key>mcx_data_timestamp</key>
-							<date>2016-11-28T19:25:20Z</date>
+							<date>2017-10-31T10:00:00Z</date>
 							<key>mcx_preference_settings</key>
 							<dict>
+								<key>FullCustomized</key>
+								<array>
+									<string>com.apple.system.show-desktop</string>
+									<string>com.apple.system.mission-control</string>
+									<string>com.apple.system.screencapture</string>
+									<string>NSTouchBarItemIdentifierFlexibleSpace</string>
+									<string>com.apple.system.group.brightness</string>
+									<string>NSTouchBarItemIdentifierFlexibleSpace</string>
+									<string>com.apple.system.night-shift</string>
+									<string>com.apple.system.group.keyboard-brightness</string>
+									<string>NSTouchBarItemIdentifierFlexibleSpace</string>
+									<string>NSTouchBarItemIdentifierFlexibleSpace</string>
+									<string>com.apple.system.group.volume</string>
+									<string>NSTouchBarItemIdentifierFlexibleSpace</string>
+									<string>com.apple.system.sleep</string>
+									<string>NSTouchBarItemIdentifierFlexibleSpace</string>
+									<string>com.apple.system.screen-lock</string>
+									
 								<key>MiniCustomized</key>
 								<array>
-									<string>com.apple.system.do-not-disturb</string>
-									<string>com.apple.system.media-play-pause</string>
-									<string>com.apple.system.sleep</string>
+									<string>com.apple.system.brightness</string>
+									<string>com.apple.system.volume</string>
+									<string>com.apple.system.mute</string>
 									<string>com.apple.system.screen-lock</string>
 								</array>
 							</dict>
@@ -51,7 +69,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>PayloadIdentifier</key>
-			<string>org.yourorg.profile.controlstrip</string>
+			<string>org.riseandshinefilms.profile.controlstrip</string>
 			<key>PayloadUUID</key>
 			<string>A0116D65-B9DB-4EBD-BA7F-E80616C378A7</string>
 			<key>PayloadEnabled</key>
