@@ -51,7 +51,7 @@
 									<string>com.apple.system.sleep</string>
 									<string>NSTouchBarItemIdentifierFlexibleSpace</string>
 									<string>com.apple.system.screen-lock</string>
-									
+								</array>
 								<key>MiniCustomized</key>
 								<array>
 									<string>com.apple.system.brightness</string>
